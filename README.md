@@ -21,5 +21,5 @@ Faster than your Wi-Fi.
 **• python-pyrogram**\
 **• Telegram Account API_ID & API_HASH**
 
-[NOTE]
+>[!NOTE]
 > [Join our Telegram Channel!](rabbit_userbot.t.me)
