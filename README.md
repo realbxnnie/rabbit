@@ -11,7 +11,7 @@ Faster than your Wi-Fi.
 | macOS    | ❌ No  |
 
 [?] What can i do with rabbit?\
-**• Check ping of your Wi-Fi / Ethernet**\
+**• Check ping of your Wi-Fi / Ethernet via "netping"**\
 **• Display your PC information via "fetch" command**\
 **• Run Python code via "py" command**\
 **• ETC**
