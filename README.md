@@ -19,7 +19,7 @@ Faster than your Wi-Fi.
 [?] What i need to install Rabbit?
 **• Python**\
 **• python-pyrogram**\
-**• Telegram Account API_ID & API_HASH**\
+**• Telegram Account API_ID & API_HASH**
 
->[NOTE]
+[NOTE]
 > [Join our Telegram Channel!](rabbit_userbot.t.me)
