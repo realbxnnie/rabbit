@@ -10,16 +10,19 @@ Faster than your Wi-Fi.
 | Windows  | ✅ Yes |
 | macOS    | ❌ No  |
 
-[?] What can i do with rabbit?
+[?] What can i do with rabbit?\
 **• Check ping of your Wi-Fi / Ethernet**\
 **• Display your PC information via "fetch" command**\
 **• Run Python code via "py" command**\
 **• ETC**
 
-[?] What i need to install Rabbit?
+[?] What i need to install Rabbit?\
 **• Python**\
 **• python-pyrogram**\
 **• Telegram Account API_ID & API_HASH**
+
+[?] Where can i download Rabbit?\
+**• [Here.](https://github.com/realbxnnie/rabbit/releases)**
 
 >[!NOTE]
 > [Join our Telegram Channel!](rabbit_userbot.t.me)
