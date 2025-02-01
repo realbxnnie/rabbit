@@ -1,3 +1,3 @@
-pip install -r .venv/requirements.txt
+pip install -r requirements.txt
 cls
 py main.py
