@@ -13,14 +13,14 @@ Fast as light.
 [?] What i need to install Rabbit?\
 **• Python 3.xx**\
 **• python-pyrogram**\
-**• Telegram Account API_ID & API_HASH**
+**• Telegram Account API_ID & API_HASH**\
 **• Telegram Account Username / Userid & Telegram Account Phone Number**
 
 [?] Where can i download Rabbit?\
 **• [Here.](https://github.com/realbxnnie/rabbit/releases/latest)**
 
-[?] How do i make custom module?
-**• Edit this template and upload it as a raw text:**
+[?] How do i make custom module?\
+**• Edit this template and upload it somewhere as a raw text:**
 ```python
 from pyrogram import Client, filters, types, enums
 from modules.plugins_1system.settings.main_settings import module_list, file_list, Config
