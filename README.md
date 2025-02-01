@@ -1,5 +1,5 @@
 # 🐇 Rabbit
-Faster than your Wi-Fi.
+Fast as light.
 
 ## Rabbit is a powerful userbot for Telegram which is has a lot of tools. You can also download community-made tools.
 
@@ -8,18 +8,13 @@ Faster than your Wi-Fi.
 | ------------- | ------------- |
 | Linux  | ✅ Yes |
 | Windows  | ✅ Yes |
-| macOS    | ❌ No  |
-
-[?] What can i do with rabbit?\
-**• Check ping of your Wi-Fi / Ethernet via "netping"**\
-**• Display your PC information via "fetch" command**\
-**• Run Python code via "py" command**\
-**• ETC**
+| macOS    | ✅ Yes  |
 
 [?] What i need to install Rabbit?\
 **• Python**\
 **• python-pyrogram**\
 **• Telegram Account API_ID & API_HASH**
+**• Telegram Account Username / Userid & Telegram Account Phone Number**
 
 [?] Where can i download Rabbit?\
 **• [Here.](https://github.com/realbxnnie/rabbit/releases)**
