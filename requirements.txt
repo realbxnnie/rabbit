@@ -1,0 +1,8 @@
+colorama
+pyfiglet
+pystyle
+pyrogram
+tgcrypto
+selenium
+qrcode
+wand
