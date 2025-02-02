@@ -36,7 +36,7 @@ moduleName = 'example'
 @Client.on_message(filters.command(moduleName, prefixes=Config.prefix) & filters.me)
 async def example(client: Client, message: types.Message):
     await message.edit(f"<b>This is an example module!</b>")
-    exit()
+    
     
 
 module_list['Example'] = f'{Config.prefix}{moduleName}'
