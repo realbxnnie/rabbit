@@ -28,7 +28,7 @@ def count(dict):
 moduleName = 'qrcode'
 
 @Client.on_message(filters.command(moduleName, prefixes=Config.prefix) & (Config.cmdrights == "all" and filters.all or filters.me ))
-async def qrcode(client: Client, message: types.Message):
+async def qrcodef(client: Client, message: types.Message):
     if Config.showlinks == "True":
         await message.edit(f"🌐 <b>Генерация QR-Кода...</b>")
         img = qrcode.make(message.text.split()[1], image_factory=qrcode.image.svg.SvgImage)
