@@ -19,6 +19,12 @@ Fast as light.
 [?] Where can i download Rabbit?\
 **• [Here.](https://github.com/realbxnnie/rabbit/releases/latest)**
 
+[?] How do i check the settings?\
+**`.config` command**
+
+[?] How do i change the settings?\
+**`.config setting on/off/string` command**
+
 [?] How do i make custom module?\
 **• Edit this template and upload it somewhere as a raw text:**
 ```python
