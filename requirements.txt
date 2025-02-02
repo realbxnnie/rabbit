@@ -6,3 +6,4 @@ tgcrypto
 selenium
 qrcode
 wand
+requests
