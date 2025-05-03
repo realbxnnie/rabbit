@@ -1,6 +1,4 @@
 # 🐇 Rabbit
-Fast as light.
-
 ## Rabbit is a powerful userbot for Telegram which is has a lot of tools. You can also download community-made tools.
 
 [?] Does my OS support Rabbit?
