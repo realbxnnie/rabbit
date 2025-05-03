@@ -11,31 +11,6 @@ from pyfiglet import *
 from pystyle import Colorate, Colors
 from colorama import Fore, Back
 
-class ModuleManager:
-    def __init__(self):
-        self.modules = {
-
-        }
-
-        def add(name, version, callback):
-            new = {}
-            for i, v in self.modules.items():
-                new[i] = v
-
-                new[name] = {
-                    "version": version,
-                    "callback": callback
-                }
-
-                self.modules.update(new)
-
-                print(f"[MODULEMANAGER]: Loaded module {name}")
-                print(self.modules)
-
-        self.add = add
-
-moduleMgr = ModuleManager()
-
 class Rabbit:
     def __init__(self):
         try:
