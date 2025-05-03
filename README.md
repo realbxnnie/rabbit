@@ -1,5 +1,5 @@
 # 🐇 Rabbit
-## Rabbit is a powerful userbot for Telegram which is has a lot of tools. You can also download community-made tools.
+## Rabbit is a powerful userbot for Telegram with a lot of tools and community-made tools support (a.k.a plugins). 
 
 [?] Does my OS support Rabbit?
 | Operating System  | Support |
